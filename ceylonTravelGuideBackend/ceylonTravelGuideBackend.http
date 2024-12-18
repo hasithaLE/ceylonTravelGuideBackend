@@ -1,0 +1,6 @@
+@ceylonTravelGuideBackend_HostAddress = http://localhost:5078
+
+GET {{ceylonTravelGuideBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
